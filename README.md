@@ -5,15 +5,8 @@ O objetivo é fornecer insights com base em dados, utilizando técnicas de ciên
 
 ## Estrutura do Repositório
 
-.
-├── data
-│   ├── dias_ativo_usuarios_ip.csv
-│   └── usuarios_cadastrados_ip.csv
-├── DATA_ANALYSIS.ipynb
-├── merged_dataset
-│   └── merged_datasets_registry_days_of_access
-└── readme
-    └── Estudo de caso - Vaga Analista de Dados Pleno.pdf 
+![Captura de tela de 2024-12-11 16-51-53](https://github.com/user-attachments/assets/2b6c632b-8208-448b-96cd-71ecf7207e68)
+
 
 
 * A pasta data contém os conjuntos de dados disponibilizados pela companhia.
